@@ -14,7 +14,7 @@ From solving reCAPTCHAs to simulating real user workflows, this is your launchpa
 
 > ⚠️ All prompts assume ZULE is operating with valid Twitter credentials, as it mimics real user behavior — not bots, not APIs.
 
-Thanks to the raiders who contributed early strategies and payloads.
+Thanks to the raiders who contributed early strategies and payloads. 
 
 ---
 
