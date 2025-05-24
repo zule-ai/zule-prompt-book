@@ -10,7 +10,7 @@ A curated collection of powerful prompt blueprints for ZULE AI — the first AI 
 These prompts are designed to unlock ZULE’s full capabilities in stealth navigation, account access, and behavior mimicry.
 From solving reCAPTCHAs to simulating real user workflows, this is your launchpad into the shadows.
 
-💬 Join the [ZULE Telegram](https://t.me/zuleai) to share ideas, get help, and connect with other raiders.
+💬 Join the [ZULE Telegram](https://t.me/ZuleAicommunitiy) to share ideas, get help, and connect with other raiders.
 
 > ⚠️ All prompts assume ZULE is operating with valid Twitter credentials, as it mimics real user behavior — not bots, not APIs.
 
